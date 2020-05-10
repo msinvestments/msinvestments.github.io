@@ -1494,7 +1494,7 @@ section.lazy-placeholder:after {
 .cid-rSGs5mYlmc {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rSGs5mYlmc .mbr-section-subtitle {
   color: #767676;
@@ -1518,7 +1518,7 @@ section.lazy-placeholder:after {
 .cid-rSGs5mYlmc table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #cccccc;
+  border: 1px solid #c1c1c1;
   margin-bottom: 0;
 }
 .cid-rSGs5mYlmc table th {
@@ -1527,14 +1527,14 @@ section.lazy-placeholder:after {
   border-bottom: none;
 }
 .cid-rSGs5mYlmc table th:hover {
-  background: #cccccc;
+  background: #c1c1c1;
   color: #000000;
 }
 .cid-rSGs5mYlmc table td {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #c1c1c1;
 }
 .cid-rSGs5mYlmc table.table {
-  background: #ffffff;
+  background: #e3feff;
 }
 .cid-rSGs5mYlmc .dataTables_filter {
   text-align: right;
